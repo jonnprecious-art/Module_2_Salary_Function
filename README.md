@@ -7,7 +7,7 @@ This project demonstrates a hybrid data processing pipeline using Python and R. 
 File Structure
 Salary_Analysis.ipynb: The main Jupyter Notebook containing all code.
 
-Salaries.csv: The input dataset.
+Salaries.csv: The input dataset. The link is attached here for direct access due to the large size of the file; https://drive.google.com/file/d/13K0ZosUdvbcgboYZ7_iNlflUyg4WjPQP/view?usp=drivesdk
 
 Employee_Profile.zip: The generated output containing individual employee CSVs.
 
